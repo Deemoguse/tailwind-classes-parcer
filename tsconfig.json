@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "declaration": true,
+    "outDir": "./",    
+  },
+  "exclude": [
+    "./src/index"
+  ],
+  "include": [
+    "./src/**/*"
+  ]
+}

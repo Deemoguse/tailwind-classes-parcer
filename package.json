@@ -1,0 +1,30 @@
+{
+  "name": "tailwind-classes-compositor",
+  "version": "1.0.0",
+  "description": "Program control tailwindcss classes",
+  "main": "index.js",
+  "author": "Ruslan Radionov <https://github.com/Deemoguse>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Deemoguse/tailwind-classes-compositor"
+  },
+  "license": "ISC",
+  "keywords": [
+    "tailwind",
+    "tailwind classes",
+    "tailwindcss",
+    "tailwindcss classes",
+    "tailwind helper",
+    "tailwindcss helper"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "@types/lodash": "^4.14.168"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
